@@ -59,7 +59,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/prince-vaishya" target="_blank">
+  <a href="https://linkedin.com/in/princevaishya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://github.com/prince-vaishya" target="_blank">
